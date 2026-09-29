@@ -2,7 +2,7 @@ name: TestantoAction
 on: 
  push:
  jobs:
- teste: 
+  teste: 
    runs-on: ubuntu-latest
    steps: 
    - name: Codigo
